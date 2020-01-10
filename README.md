@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gilmoore/VAE_Tacotron2/blob/master/VAE_TAcotron2.ipynb)
+
+
 # VAE Tacotron-2:
 Unofficial Implementation of [Learning latent representations for style control and transfer in end-to-end speech synthesis](https://arxiv.org/pdf/1812.04342.pdf)
 
